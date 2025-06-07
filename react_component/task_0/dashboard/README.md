@@ -1,10 +1,50 @@
-This an app for the projet React Component of Holberton
+# 🚀 React Component Project
 
-Learning Objective:
+Welcome to the **React Component Project**!  
+This repository is part of the Holberton School curriculum and is designed to help you master building robust React components.
 
-    When to use a Class or a function to create a component
-    The lifecycle of a Class component
-    How to test a component
-    How to use a Jest spy to verify that a function is being called correctly.
-    What an HOC is and how to use it
-    How to optimize performance and control which components to render
+## 📚 Learning Objectives
+
+- 🏗️ **Component Creation:** Understand when to use a class or a function to create a component.
+- 🔄 **Lifecycle Methods:** Learn the lifecycle methods of class components.
+- 🧪 **Testing:** Test React components effectively using Jest and React Testing Library.
+- 🕵️ **Jest Spies:** Use Jest spies to verify function calls and component behavior.
+- 🏗️ **Higher-Order Components:** Understand and implement Higher-Order Components (HOCs).
+- ⚡ **Performance Optimization:** Optimize performance and control component rendering.
+
+## 🛠️ Project Structure
+
+```
+dashboard/
+├── components/
+├── tests/
+├── App.js
+├── index.js
+└── README.md
+```
+
+## 🚦 Getting Started
+
+1. **Install dependencies:**  
+    ```bash
+    npm install
+    ```
+2. **Run the development server:**  
+    ```bash
+    npm start
+    ```
+3. **Run tests:**  
+    ```bash
+    npm test
+    ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## 📄 License
+
+This project is for educational purposes as part of the Holberton School curriculum.
+
+---
+Happy coding! 💻✨
